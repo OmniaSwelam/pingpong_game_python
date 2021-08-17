@@ -1,1 +1,1 @@
-A ping pong game create with Turtle graphics in python.
+A ping pong game created with Turtle graphics in python.
